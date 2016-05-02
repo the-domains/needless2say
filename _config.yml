@@ -1,0 +1,28 @@
+name: needless2say
+favicon: null
+layout_spectrum: 0.30350845982320607
+typography_spectrum: 0.3148889357689768
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.37660080660134554
+  lightness: 0.9486872111447155
+  saturation: 0.8886103958357126
+  rhythmicContrast: 0.6393180887680501
+purpose: []
